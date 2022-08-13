@@ -11,7 +11,9 @@ package com.mycompany.prueba1;
 public class Prueba {
     
     public static void main(String[] args) {
-        System.out.println("Hola");git 
+        System.out.println("Hola");
+        System.out.println("Adios");
+        
     }
     
 }
